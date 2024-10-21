@@ -1,0 +1,2 @@
+# Leveraging-Machine-Learning-for-Predictive-Sales-Insights-Anticipating-Retail-Market-Dynamic
+This project leverages advanced machine learning for predictive sales insights in retail. It covers data collection, preprocessing, EDA, baseline modeling, feature engineering, outlier detection, and model evaluation. Key models include XGBoost, LightGBM, and Decision Tree Regressor, with the latter identified as the best performer.
