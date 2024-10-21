@@ -10,8 +10,7 @@ This project aims to perform demand forecasting using historical sales data. The
 4. [Usage](#usage)
 5. [Features](#features)
 6. [Dependencies](#dependencies)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Introduction
 
@@ -83,15 +82,4 @@ Install the required libraries using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Contributing
-
-Contributions to improve this project are welcome. Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Submit a pull request.
 
